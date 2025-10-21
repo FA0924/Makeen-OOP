@@ -1,0 +1,14 @@
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\bin\Debug\net8.0\OppAssignments.exe
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\bin\Debug\net8.0\OppAssignments.deps.json
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\bin\Debug\net8.0\OppAssignments.runtimeconfig.json
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\bin\Debug\net8.0\OppAssignments.dll
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\bin\Debug\net8.0\OppAssignments.pdb
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.AssemblyInfoInputs.cache
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.AssemblyInfo.cs
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.dll
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\refint\OppAssignments.dll
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.pdb
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\OppAssignments.genruntimeconfig.cache
+C:\Users\USER PC\source\repos\OppAssignments.solution\OppAssignments\obj\Debug\net8.0\ref\OppAssignments.dll
